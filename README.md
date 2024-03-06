@@ -49,4 +49,4 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
 
 ## 📫 Feedback
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-doke/)
+If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishekdas09/)
