@@ -45,26 +45,8 @@ Jupyter Notebook, MS-Excel, MS-Power BI
 - Client retention in 2014 was subpar
 - 2016 brought about a slight improvement in retention
 
-## 📖 Documentation
-
-[High Level Documentation](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/01.High%20Level%20Design.pdf)
-
-[Low Level Documentation](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/02%20Low%20Level%20Design.pdf)
-
-[Architecture Documentation](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/03%20Architecture.pdf)
-
-[WireFrame](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/04%20Wireframe.pdf)
-
-[Detail Project Report](https://github.com/doke93/Budget-Sales-Data-Analysis-Project-Ineuron/blob/main/Document%20pdf/05%20Detailed%20Project%20Report.pdf)
-
 ## 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
-
-## LinkedIn Post 📲
-[LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:6971406322663600128/)
-
-## Youtube Video 🎬
-[Video post](https://youtu.be/yeucgBmRu0Q)
 
 ## 📫 Feedback
 If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishek-doke/)
