@@ -1,52 +1,29 @@
-## Glimpse of the Dashboard 🎥
-![screenshot](https://user-images.githubusercontent.com/69301816/188271334-a7446448-2b97-4dfe-8f96-26f2b655f554.gif)
+[![](https://github.com/theAbhishekDas/Budget-Sales-Data-Analysis/blob/main/01%20Template.png)](https://portfolio-abhishek-das.netlify.app/)
 
-## Objective 🎯
-The goal of this project is to analysis the sales budget data, extract necessary information about Products and Customers based on a combination of features and make a dashboard to review the performance of the company.
-## Problem statement 📜
-- Do ETL : Extract-Transform-Load dataset
-- Perform EDA through python
-- Extract various information such as Sales, budget, variance
-- Extract necessary information about Products and Customers
-- Make necessary dashboard
-- Find key metrics and factors and show the meaningful relationships between attributes
+<h1 align="center"> Heart Disease Diagnostic Analysis </h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/abhishekdas09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
+<a href="https://twitter.com/kn1ne09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+  <a href="https://portfolio-abhishek-das.netlify.app/" target="blank"><img align="center" src="https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/favicon.ico" alt="supunnanayakkara" height="35" width="35" /></a>
+<a href="https://www.instagram.com/_the_happy_das_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+</p>
+<hr/>
+    <img width="440" height="250" align='left' src="https://github.com/theAbhishekDas/Budget-Sales-Data-Analysis/blob/main/kisspng-macbook-pro-macbook-air-laptop-mockup-macbook-5ac05c4d708c61.810859321522555981461.png" >
+The objective of this project is to analyze sales budget data to gain insights into the performance of the company. This involves conducting Extract-Transform-Load (ETL) processes on the dataset, performing exploratory data analysis (EDA) using Python to understand the underlying patterns and relationships within the data. Key tasks include extracting information such as sales, budget, and variance, as well as identifying essential details about products and customers. By synthesizing this information, the project aims to create a comprehensive dashboard that provides a visual representation of the company's performance metrics. Additionally, the project seeks to identify key metrics and factors influencing sales performance, facilitating a deeper understanding of the meaningful relationships between various attributes to inform strategic decision-making processes.
+   <br />
+  <br />
+   <br />
+  
+  ![](https://github.com/theAbhishekDas/Budget-Sales-Data-Analysis/blob/main/05%20Template1.png)
+ 
+- **Title**: "Sales Analysis"
+- **Top Section**: Displays total sales by year (2014 to 2016) via a line chart, indicating growth from $4 million in 2014 to $5.4 million in 2016. Quarterly sales totals are shown below the chart.
+- **Middle Section**: Illustrates sales by product line and subcategory with a stacked bar chart. Road Bikes lead in sales at $14.5 million, followed by Mountain Bikes at $10 million.
+- **Bottom Left Section**: Compares unit cost vs. price through a chart, showing that the unit cost tends to be lower than the price, indicating a healthy profit margin.
+- **Bottom Right Section**: Provides sales breakdown by product line in a table format, aligning with the subcategories listed earlier.
+<br/>
+<br/>
 
-## Dataset 📀
-[Adventure-Works Data](https://drive.google.com/drive/folders/165Pjmfb9W9PGy0rZjHEA22LW0Lt3Y-Q8)
+[![](https://github.com/theAbhishekDas/Heart-Disease-Diagnostic-Analysis/blob/main/05%20Template1.png)](https://portfolio-abhishek-das.netlify.app/)
 
-## Technology �
-Business Intelligence
-## Domain 🛒
-Retail & Sales
-## Project Difficulty level 🥇
-Advanced
-## Programming Language 💻
-Python, DAX and Power Query M
-## Tools 🛠
-Jupyter Notebook, MS-Excel, MS-Power BI
-## Approach (Architecture) ⚙
-
-![App Screenshot](https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG)
-
-## Conclusion 💡
-- A sizable portion of the clientele is made up of people between the ages of 40 and 59
-- The year 2016 saw an exponential surge in sales
-- High quantity of products is ordered from Australia and United States
-- Major Profit is contributed by the Bike Category
-- The average order has a gap of 7 days between the day the order is ready for export from the factory and the date it was shipped
-- Maximum profit earned in the months of June, November, and December
-- High sales orders are seen on Wednesday and Saturday, when compared to other weekdays
-- There is a high negative correlation between Price and number of Quantity ordered
-- The average amount spent by men without permanent addresses is low, whilst the average amount spent by women without permanent addresses is higher
-- Age range of 40-49 and 50-59 is shows high demand compared to other age group
-- High salary range leads to increase in revenue
-- Customers with a high school diploma and modest annual income buy more products than people with bachelor's degrees
-- According to the customer segmentation described above, approximately 15% of our clients are high value clients, whereas the majority of our clientele are low value and lost clients
-- Client retention in 2014 was subpar
-- 2016 brought about a slight improvement in retention
-
-## 🎉 Help Me Improve
-Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
-
-## 📫 Feedback
-If you have any feedback, please reach out to me via [LinkedIn](https://www.linkedin.com/in/abhishekdas09/)
+    
